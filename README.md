@@ -2,6 +2,13 @@
 
 A lightweight, dependency-minimal tool for analyzing trading performance from a CSV log of trades. It computes standard quant performance metrics and generates a set of visualizations — no server, no browser, no dashboard framework required.
 
+<img width="1000" height="500" alt="equity_curve" src="https://github.com/user-attachments/assets/1b11bba1-c883-4ff3-aada-53e5575d302c" />
+
+<img width="1000" height="500" alt="monthly_returns" src="https://github.com/user-attachments/assets/3bc6ca8d-43bd-4bb0-93b6-19582d684f16" />
+
+<img width="1200" height="500" alt="heatmap" src="https://github.com/user-attachments/assets/a8ccb3b6-dc54-49d0-adb3-5546964f634f" />
+
+
 ## What it does
 
 Given a CSV of individual trades, the script computes:
