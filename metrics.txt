@@ -1,0 +1,12 @@
+Sharpe (per-trade, annualized): 1.1942
+Sortino (per-trade, annualized): 2.1065
+Calmar: 1.5571
+Max Drawdown: -10,289.9600
+Profit Factor: 1.1091
+Expectancy: 14.5394
+Win Rate: 0.4909
+Avg Hold Time (h): 0.1122
+Total PnL: 16,022.3900
+Total Trades: 1102
+Trading Days Span: 365.2000
+Trades/Year (annualized): 1,102.0000
